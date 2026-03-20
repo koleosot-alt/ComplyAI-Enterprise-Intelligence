@@ -1,0 +1,5 @@
+{
+  "name": "ComplyAI",
+  "description": "AI-powered compliance case management assistant for extraction, summarization, and risk assessment.",
+  "requestFramePermissions": []
+}
